@@ -12,7 +12,7 @@ print("*****************************\n")
 if a == 0:
     print("O valor de a não pode ser 0")
 elif delta < 0:
-    print("Não existe raizes reais!")
+    print("Não existe raizes reais")
 else:
 
     print(f"bhaskara_x1 = (-b + ({delta} ** (1/2)) / (2 * a)")
