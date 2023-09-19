@@ -8,7 +8,7 @@ conta_especial = opcao == 3
 valor = int(input("Digite o valor que deseja sacar: "))
 saldo = 2000
 saque = valor
-cheque_especial = 450
+cheque_especial = 500
 
 if conta_Normal:
 
