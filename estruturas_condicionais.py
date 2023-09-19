@@ -1,6 +1,7 @@
 MAIOR_IDADE = 18
 IDADE_ESPECIAL = 17
 
+print("Bem vindo!")
 idade = int(input("Informe sua idade: "))
 #Condicionais apenas com "IF";
 if idade >= MAIOR_IDADE:
