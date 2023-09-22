@@ -9,6 +9,7 @@ else:
     print() #Adiciona quebra de linha;
 
 
-#Exemplo utilizando a função built-in range;
-for numero in range(0, 51, 5):
-    print(numero, end= " ")
+
+#Exemplo utilizando a função built-in range (Faixa integrada);
+for numero in range(0, 51, 5):#Start, Stop e Step. Início, Fim e Etapa (Divisor);
+    print(numero, end=" ")#Adicionando "end= " "" faz com que fique em apenas uma linha;
