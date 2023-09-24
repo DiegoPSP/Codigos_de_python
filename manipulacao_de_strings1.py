@@ -17,6 +17,3 @@ print("####" + menu + "####")#Maneira manual de adicionar o que você quer na st
 print(menu.center(14))#Centraliza a string e adiciona espaços em brancos; (Conta os caracteres da string e o que passar é adicionado em branco); 
 print(menu.center(14, "#"))#Adiciona o que estiver entre as aspas nos lugares que ficariam em branco;
 print("-".join(menu))#Adiciona entre as letras da string o que estiver entre as aspas;
-
-
-
