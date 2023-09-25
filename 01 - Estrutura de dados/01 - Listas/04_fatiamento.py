@@ -1,5 +1,5 @@
 lista = ["p", "y", "t", "h", "o", "n"]
-nome = "python"
+nome = "python"#Declaração de uma string;
 
 print(lista[2:])  # ["t", "h", "o", "n"]
 print(lista[:2])  # ["p", "y"]
@@ -8,4 +8,4 @@ print(lista[0:3:2])  # ["p", "t"]
 print(lista[::])  # ["p", "y", "t", "h", "o", "n"]
 print(lista[::-1])  # ["n", "o", "h", "t", "y", "p"]
 
-print(nome[:3:-1])
+print(nome[:3:-1])#Peguei as duas útimas letras e inverti elas na resposta;
